@@ -1,0 +1,15 @@
+s3dojo.de:
+	- set up theme (15m) @done
+	- create home page (1h)
+	- create about me (20m)
+	- create privacy policy (30m)
+	- setup github page @done
+	- get some nice illustrations (20m)
+	- create modules page (60m)
+	- create open dojos page (20m)
+	- add local fonts (see https://stackoverflow.com/questions/39043393/how-can-i-add-custom-local-font-to-jekyll-site)
+	
+	More Themes:
+		Use any them with Github pages https://github.blog/2017-11-29-use-any-theme-with-github-pages/)
+		Leap Day theme has a nice TOC: https://pages-themes.github.io/leap-day/
+		Clean Blog Bootstrap Theme: https://startbootstrap.com/themes/clean-blog-jekyll/
