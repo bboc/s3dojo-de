@@ -1,13 +1,26 @@
 s3dojo.de:
 	- set up theme (15m) @done
-	- create home page (1h)
-	- create about me (20m)
-	- create privacy policy (30m)
+	- create home page (1h) @done
+	- get some nice illustrations (20m) @done
+	- add nav to footer: Impressum / Privacy Policy
+	Information to add:
+		- general info text about dojos (homepage?)
+		- create about me (20m)
+		- add info about open dojos (20m)
+		- downloads: posters for dojos (2 downloads) @done
+		-  modules (60m)
+		- download: primer @done
+		- s3 canvas series @done
+		- S3- Praxisleitfaden @done
 	- setup github page @done
-	- get some nice illustrations (20m)
-	- create modules page (60m)
-	- create open dojos page (20m)
-	- add local fonts (see https://stackoverflow.com/questions/39043393/how-can-i-add-custom-local-font-to-jekyll-site)
+		- privacy policy (30m)
+		- Impressum
+	Tech Tasks:
+		- add local fonts (see https://stackoverflow.com/questions/39043393/how-can-i-add-custom-local-font-to-jekyll-site)
+		- set up a simple default template @na
+		- fix menu bug: scolling down and then up again messes with colors of text on the top of the page
+		- Update Font Awesome to v5: https://fontawesome.com/how-to-use/on-the-web/setup/hosting-font-awesome-yourself @later
+		- move home page includes to separate folder
 	
 	More Themes:
 		Use any them with Github pages https://github.blog/2017-11-29-use-any-theme-with-github-pages/)
