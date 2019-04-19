@@ -1,6 +1,6 @@
 ---
 layout: home
-title: #s3dojo
+title: s3dojo
 ---
 
 Willkommen.
