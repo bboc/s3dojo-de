@@ -4,12 +4,12 @@
 {% include head.html %}
 
 <body id="page-top">
-  {% include nav.html %}
-  {% include home-header.html %}
-  {% include home-details.html %}
-  {% include home-downloads.html %}
-  {% include home-aside.html %}
-  {% include home-portfolio.html %}
+  {% include_relative home/nav.html %}
+  {% include_relative home/header.html %}
+  {% include_relative home/details.html %}
+  {% include_relative home/aside.html %}
+  {% include_relative home/portfolio.html %}
+  {% include_relative home/downloads.html %}
   {% include contact.html %}
   {% include scripts.html %}
 </body>
