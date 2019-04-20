@@ -148,16 +148,28 @@ aside {
 }
 
 // Homepage Header
-
+.header-home {
+    background-image: url('../img/header.jpg');
+    color: white;
+    .header-content {
+        .header-content-inner {
+            p {
+                color: black;
+            }
+        }
+    }
+}
+.header-simple {
+    background-image: url('../img/header-alt.jpg');
+    color: white;
+}
 header {
     position: relative;
     width: 100%;
     min-height: auto;
     @include background-cover;
     background-position: center;
-    background-image: url('../img/header.jpg');
     text-align: center;
-    color: white;
     .header-content {
         position: relative;
         text-align: center;
