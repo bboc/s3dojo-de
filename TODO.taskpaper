@@ -1,33 +1,11 @@
 s3dojo.de:
-	- set up theme (15m) @done
-	- create home page (1h) @done
-	- get some nice illustrations (20m) @done
 	Information to add:
-		- general info text about dojos (homepage?) @done
 		- create about me (20m) @later
-		- about: add link to evol-colab page for now @na @done
-		- add info about open dojos (20m) @done
-		- downloads: posters for dojos (2 downloads) @done
-		-  modules: layout in 2 columns @done
-		- download: primer @done
-		- s3 canvas series @done
-		- S3- Praxisleitfaden @done
-		- privacy policy @done
-		- Impressum @done
 		- write a brief intro for each module category
 	Tech Tasks:
-		- setup github page @done
-		- fix text color on homepage @done
 		- add local fonts (see https://stackoverflow.com/questions/39043393/how-can-i-add-custom-local-font-to-jekyll-site)
-		- set up a simple default template for content pages @na @done
 		- fix menu bug: scolling down and then up again messes with colors of text on the top of the page
 		- Update Font Awesome to v5: https://fontawesome.com/how-to-use/on-the-web/setup/hosting-font-awesome-yourself @later
-		- move home page includes to separate folder @done
-		- fix header and create simple-nav for privacy policy and imprint @done
-		- create nav for modules and about me @done
-		- add nav to footer: Impressum / Privacy Policy @done
-	
-
 	More Themes:
 		Use any them with Github pages https://github.blog/2017-11-29-use-any-theme-with-github-pages/)
 		Leap Day theme has a nice TOC: https://pages-themes.github.io/leap-day/
