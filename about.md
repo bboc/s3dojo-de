@@ -1,8 +1,6 @@
 ---
-layout: default
 title: About
-permalink: /about
+layout: simple
 ---
 
-This is the text of the about page
-
+Diese Seite befindet sich im Aufbau, Informationen über mich finden sich auf [meinem Blog](https://evolvingcollaboration.com/about-me/).
