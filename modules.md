@@ -10,20 +10,15 @@ header_text: …
       <div class="col-lg-8 text-center">
         <h2 class="section-heading">Konzept und Inhalte</h2>
         <hr class="primary">
-<p>Im Dojo sind die Teilnehmer nicht nur Lernende, sondern übernehmen selbst auch Verantwortung für Ablauf und Umsetzung des Dojos, so können sie als Gruppe zueinander in Beziehung zu treten, kunstvolle Teilnahme praktizieren und dabei auch Muster zur Selektion und Entwicklung von Mitarbeitern einüben und erleben.</p>
-
-<p>Jeder Tag des Dojos beginnt mit der Gestaltung des gemeinsamen Rahmens und der Agenda, unter tags gibt es immer wieder Standortbestimmung und Gelegenheiten, Erlebnisse zu teilen und Antworten zu finden, und am Ende des Tages findet eine Reflektion des Erlebten und der eigenen Erwartungen, sowie eine Evaluation des Gesamtbildes statt.</p>
-
-<p>Für die meisten <em>#s3dojos</em> wird die Agenda für den Vormittag des ersten Tages in einer Vorbesprechung vereinbart, um für alle Teilnehmer die Unsicherheit zu reduzieren und so einen produktiven Beginn zu gewährleisten. Aus den am Vormittag gewonnenen Erkenntnissen wird dann gemeinsam der weitere Ablauf des Dojos angepasst.</p>
-<p>&nbsp;</p>
-<p>Die meisten der folgenden Module umfassen ca. 40-60 Minuten, einzelne Praxisübungen können auch mehr Zeit in Anspruch nehmen, besonders solche, die mit konkreten Situationen aus der Organisation der Teilnehmer beschäftigen. </p>
+        <p>Im Dojo sind die Teilnehmer nicht nur Lernende, sondern übernehmen selbst auch Verantwortung für Ablauf und Umsetzung des Dojos, so können sie als Gruppe zueinander in Beziehung zu treten, kunstvolle Teilnahme praktizieren und dabei auch Muster zur Selektion und Entwicklung von Mitarbeitern einüben und erleben.</p>
+        <p>Jeder Tag des Dojos beginnt mit der Gestaltung des gemeinsamen Rahmens und der Agenda, unter tags gibt es immer wieder Standortbestimmung und Gelegenheiten, Erlebnisse zu teilen und Antworten zu finden, und am Ende des Tages findet eine Reflektion des Erlebten und der eigenen Erwartungen, sowie eine Evaluation des Gesamtbildes statt.</p>
+        <p>Für die meisten <em>#s3dojos</em> wird die Agenda für den Vormittag des ersten Tages in einer Vorbesprechung vereinbart, um für alle Teilnehmer die Unsicherheit zu reduzieren und so einen produktiven Beginn zu gewährleisten. Aus den am Vormittag gewonnenen Erkenntnissen wird dann gemeinsam der weitere Ablauf des Dojos angepasst.</p>
+        <p>&nbsp;</p>
+        <p>Die meisten der folgenden Module umfassen ca. 40-60 Minuten, einzelne Praxisübungen können auch mehr Zeit in Anspruch nehmen, besonders solche, die mit konkreten Situationen aus der Organisation der Teilnehmer beschäftigen. </p>
       </div>
     </div>
   </div>
 </section>
-
-
-
 <section id="module">
   <div class="container">
     <div class="row">
@@ -38,7 +33,9 @@ header_text: …
       <div class="col-lg-4 col-md-6 text-center">
         <div class="service-box">
           <i class="fa fa-4x fa-cubes wow bounceIn text-primary"></i>
+
           <h3>Grundlagen</h3>
+
           <p class="text-muted">Für Gruppen, die nur geringe Vorkenntnisse haben, eignen sich diese Module als Einstieg, und werden meist kompakt in der ersten Hälfte des ersten Tages in folgender Reihenfolge absolviert:</p>
           <p>&nbsp;</p>
           <p><strong>Komplexität und Agilität:</strong><br/>Begriffsbestimmung, Cynefin Framework, Überblick agile Frameworks, Komplexität in Organisationen, Soziokratie im agilen Kontext</p>
@@ -53,7 +50,9 @@ header_text: …
       <div class="col-lg-4 col-md-6 text-center">
         <div class="service-box">
           <i class="fa fa-4x fa-compass wow bounceIn text-primary" data-wow-delay=".1s"></i>
+
           <h3>Entscheiden und Steuern</h3>
+
           <p class="text-muted">…</p>
           <p><strong>Evolutionäre und partizipative Entscheidungen: </strong><br/> Treiber, Strategie, hypothesengetriebenen Methoden, weitere Muster aus “<em>Mitgestaltung und Evolution</em>” und “<em>Klare Vereinbarungen</em>”</p>
           <p>&nbsp;</p>
@@ -73,10 +72,10 @@ header_text: …
       <div class="col-lg-4 col-md-6 text-center">
         <div class="service-box">
           <i class="fa fa-4x fa-users wow bounceIn text-primary" data-wow-delay=".2s"></i>
+
           <h3>Mitarbeiter und Selbstorganisation</h3>
+
           <p class="text-muted">…</p>
-
-
           <p><strong>Selbstorganisation:</strong><br/> Wie funktioniert effektive Selbstorganisation? Muster aus “<em>Effektive Meetings</em>”, “<em>Fokussierte Interaktionen</em>” und “<em>Arbeitsorganisation</em>”.</p>
           <p>&nbsp;</p>
           <p><strong>Kanban als Change-Management-Methode:</strong><br/> Was kann Kanban, was bringt mir das, wo und wie fange ich an, und was kommt dann? Puffer, Blockaden, WiP-Limits, Kanban in Führungsteams, Support, Produktteams, Enterprise-Kanban.</p>
@@ -92,14 +91,14 @@ header_text: …
           <p>Anwendung der Muster, Peer-Feedback, Entwicklungsgespräch und Entwicklungsplan auf die im Dojo vergebenen Rollen.</p>
           <p>&nbsp;</p>
           <p><strong>Operatives Backlog / Produktbackog (Praxisübung):</strong><br/> gemeinsam ein operatives Backlog und/oder ein Produkt erstellen und priorisieren.</p>
-
-
         </div>
       </div>
       <div class="col-lg-4 col-md-6 text-center">
         <div class="service-box">
           <i class="fa fa-4x fa-sitemap wow bounceIn text-primary" data-wow-delay=".3s"></i>
+
           <h3>Organisationsentwicklung und -struktur</h3>
+
           <p class="text-muted">…</p>
           <p><strong>Organisationsstruktur entwickeln:</strong><br/> Domänen, Delegation, Kreise, Rollen, S3-Canvases, Organisationsentwicklung, neue Muster für Organisationsstruktur</p>
           <p>&nbsp;</p>
@@ -116,10 +115,10 @@ header_text: …
       </div>
       <div class="col-lg-4 col-md-6 text-center">
         <div class="service-box">
-          <i class="fa fa-4x fa-heart wow bounceIn text-primary" data-wow-delay=".3s"></i>
+          <i class="fa fa-4x fa-heart wow bounceIn text-primary" data-wow-delay=".4s"></i>
 
           <h3>Zusammenarbeit und Kultur</h3>
-          
+
           <p class="text-muted">…</p>
           <p><strong>Bewusste Zusammenarbeit und Kunstvolle Teilnahme (Praxisübung):</strong><br/> Self-Assessment: Kunstvolle Teilnahme, konkrete Strategien zur bewussten Zusammenarbeit identifizieren und ihre Umsetzung vorbereiten.</p>
           <p>&nbsp;</p>
@@ -130,7 +129,7 @@ header_text: …
       </div>
       <div class="col-lg-4 col-md-6 text-center">
         <div class="service-box">
-          <i class="fa fa-4x fa-plus-circle wow bounceIn text-primary" data-wow-delay=".3s"></i>
+          <i class="fa fa-4x fa-plus-circle wow bounceIn text-primary" data-wow-delay=".5s"></i>
           
           <h3>Sonstiges</h3>
 
@@ -144,8 +143,10 @@ header_text: …
       </div>
       <div class="col-lg-4 col-md-6 text-center">
         <div class="service-box">
-          <i class="fa fa-4x fa-diamond wow bounceIn text-primary" data-wow-delay=".3s"></i>
+          <i class="fa fa-4x fa-diamond wow bounceIn text-primary" data-wow-delay=".6s"></i>
+
           <h3>Meta-Module</h3>
+
           <p class="text-muted">…</p>
           <p><strong>Open Space:</strong><br/> Ein festgelegter Zeitrahmen (typischerweise 2h) wird in mehrere Zeitslots aufgeteilt, in denen sich Teilnehmer in kleinen Gruppen zusammenfinden und sich mit selbst eingebrachten Themen beschäftigen. Hier können Muster vertieft, Moderationsformate geübt, Strategien zur Lösung spezifischer Herausforderungen in der eigenen Organisation gefunden oder Aspekte des erlebten und gelernten reflektiert werden. Die Ergebnisse aus den Gruppen werden – soweit passend und gewünscht – am Ende kurz im Plenum vorgestellt.</p>
           <p>&nbsp;</p>
@@ -157,17 +158,17 @@ header_text: …
       </div>
       <div class="col-lg-4 col-md-6 text-center">
         <div class="service-box">
-          <i class="fa fa-4x fa-refresh wow bounceIn text-primary" data-wow-delay=".3s"></i>
-          <h3>Reflektion</h3>
-          <p class="text-muted">Zusätzlich zu den zu Beginn und Ende der jedes Tages stattfindenden Reflexionen, und Aktivitäten zur Reflexion, die in den einzelnen Modulen integriert sind, können nach Bedarf noch folgende Module eigebaut werden:</p>
+          <i class="fa fa-4x fa-refresh wow bounceIn text-primary" data-wow-delay=".7s"></i>
 
+          <h3>Reflektion</h3>
+
+          <p class="text-muted">Zusätzlich zu den zu Beginn und Ende der jedes Tages stattfindenden Reflexionen, und Aktivitäten zur Reflexion, die in den einzelnen Modulen integriert sind, können nach Bedarf noch folgende Module eigebaut werden:</p>
           <p>&nbsp;</p>
           <p><strong>Triaden:</strong><br/> Teilnehmer schließen sich in Dreiergruppen zusammen, die sich in den Pausen und am Ende jedes Tages abstimmen und sich auch während des Dojos gegenseitig beim Lernen und Verarbeiten unterstützen. Es hat sich bewährt, diese Gruppen möglichst zufällig zuzuordnen.</p>
           <p>&nbsp;</p>
           <p><strong>Murmelgruppen:</strong><br/> Im Ablauf eines Dojos treten viele Fragen auf. Oft werden durch Fragen eigene Statements und Blickwinkel formuliert, was in großen Gruppen viel Zeit beanspruchen. Verständnisfragen sollen ad hoc ermöglicht werden, tiefere Fragen und Statements können aber auch in Form von &quot;Murmelgruppen&quot; in Kleingruppen kanalisiert werden, Ergebnisse daraus werden kurz im Plenum sichtbar gemacht.</p>
           <p>&nbsp;</p>
           <p><strong>Praxisübung Retrospektive (Praxisübung):</strong><br/> Ideal am Ende des zweiten Workshoptages — anhand einer Retrospektive zum bisherigen Workshop können die fünf Phasen einer Retrospektive erlebt werden. Die aus der Retrospektive gewonnenen Ergebnisse und Maßnahmen werden anschließend direkt im Dojo umgesetzt.</p>
-
         </div>
       </div>
     </div>
