@@ -1,0 +1,12 @@
+s3dojo.de:
+	Information to add:
+		- create about me (20m) @later
+		- write a brief intro for each module category
+	Tech Tasks:
+		- add local fonts (see https://stackoverflow.com/questions/39043393/how-can-i-add-custom-local-font-to-jekyll-site)
+		- fix menu bug: scolling down and then up again messes with colors of text on the top of the page
+		- Update Font Awesome to v5: https://fontawesome.com/how-to-use/on-the-web/setup/hosting-font-awesome-yourself @later
+	More Themes:
+		Use any them with Github pages https://github.blog/2017-11-29-use-any-theme-with-github-pages/)
+		Leap Day theme has a nice TOC: https://pages-themes.github.io/leap-day/
+		Clean Blog Bootstrap Theme: https://startbootstrap.com/themes/clean-blog-jekyll/
