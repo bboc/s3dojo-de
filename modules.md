@@ -10,12 +10,9 @@ header_text: …
       <div class="col-lg-12 text-center">
         <h2 class="section-heading">Aufbau eines #s3dojo</h2>
         <hr class="primary">
-        <p>Im Dojo sind die Teilnehmer nicht nur Lernende, sondern übernehmen selbst auch Verantwortung für Ablauf und Umsetzung des Dojos, so können sie als Gruppe zueinander in Beziehung zu treten, kunstvolle Teilnahme praktizieren und dabei auch Muster zur Selektion und Entwicklung von Mitarbeitern einüben und erleben.</p>
         <p>Jeder Tag des Dojos beginnt mit der Gestaltung des gemeinsamen Rahmens und der Agenda, unter tags gibt es immer wieder Standortbestimmung und Gelegenheiten, Erlebnisse zu teilen und Antworten zu finden, und am Ende des Tages findet eine Reflektion des Erlebten und der eigenen Erwartungen, sowie eine Evaluation des Gesamtbildes statt.</p>
         <p>Für die meisten <em>#s3dojos</em> wird die Agenda für den Vormittag des ersten Tages in einer Vorbesprechung vereinbart, um für alle Teilnehmer die Unsicherheit zu reduzieren und so einen produktiven Beginn zu gewährleisten. Aus den am Vormittag gewonnenen Erkenntnissen wird dann gemeinsam der weitere Ablauf des Dojos angepasst.</p>
-        <p>&nbsp;</p>
         <p>Um das zu ermöglichen, gibt es momentan ca. 35 interaktive Module und Praxisübungen, die flexibel kombinierbar und auch ad hoc an den Bedarf der Gruppe angepasst werden können. Aus diesen Modulen gestaltet die Gruppe selbst während des Dojos ihren eingenen Weg zu S3.</p>
-        <p>&nbsp;</p>
         <p>Die meisten der folgenden Module umfassen ca. 40-60 Minuten, einzelne Praxisübungen können auch mehr Zeit in Anspruch nehmen, besonders solche, die mit konkreten Situationen aus der Organisation der Teilnehmer beschäftigen. </p>
       </div>
     </div>
