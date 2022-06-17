@@ -11,6 +11,10 @@ Die Herausforderung in Inhouse-Dojos ist das Schaffen von Bewusstsein für Situa
 
 Wenn tatsächlich der Wunsch einer Organisation nach umfassenderer Veränderung besteht, kann ich auch dafür geeignete Formate anbieten, z.B. das Muster _Den Raum für Veränderung öffnen_, oder einen **S3-Sprint**.
 
+## On-site oder remote?
+
+Natürlich ist ein _#s3dojo_ auch remote möglich, ich nutze dabei die Konferenztechnologie Ihrer Wahl, und eine Arbeitsplattform in Miro oder Mural. Bei einem Remote-Dojo kann man die zeit auch auf kürzere Sessions aufteilen, ich habe gute Erfahrungen mit 4-stündingen Sessions gemacht.
+
 ## Müssen es wirklich drei Tage sein?
 
 Ich werde oft gefragt, ob man nicht auch kürzere Dojos abhalten kann. Meiner Erfahrung nach ist das für Inhouse-Dojos in speziellen Fällen durchaus möglich, wenn alle Teilnehmer bereits Erfahrung mit Soziokratie und/oder Agilität haben. Für offene Dojos empfehle ich immer drei Tage, da hier die Gruppe in der Regel mehr Zeit benötigt, um zusammenzuwachsen, und sich die Teilnehmer in diesem Rahmen immer wieder aushandeln, ob der Fokus eher auf der Breite des Wissens, oder mehr auf Praxis in Teilbereichen von S3 liegen soll.
